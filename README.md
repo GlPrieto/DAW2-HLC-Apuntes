@@ -1,5 +1,4 @@
-# DAW2-HLC-Apuntes
-# Apuntes del módulo HLC-Fullstack
+# DAW2-HLC-Apuntes del módulo HLC-Fullstack
 
 2º DAW  
 Écija (Sevilla)  
